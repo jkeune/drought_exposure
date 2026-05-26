@@ -35,7 +35,7 @@ project:
             - file: tutorials/agricultural_land.ipynb
             - file: tutorials/explore_nuts_regions.ipynb
               hidden: true
-    - file: how-to-guides.ipynb
+    - file: how-to-guides.md
       title: How-To Guides
       children:
         - file: how-to-guides/define_your_region.ipynb
