@@ -62,7 +62,7 @@ project:
             - file: explanation/vulnerability.md
             - file: explanation/drought_risk.md
             - file: explanation/adaptation.md
-    - file: references.ipynb
+    - file: references.md
       title: References
       children:
         - file: references/valorada.md
