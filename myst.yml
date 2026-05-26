@@ -21,7 +21,7 @@ project:
       output: exports/book.pdf
   toc:
     - file: intro.md
-    - file: tutorials.ipynb
+    - file: tutorials.md
       title: Tutorials
       children:
         - title: Storylines
