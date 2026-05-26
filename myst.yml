@@ -48,7 +48,7 @@ project:
         - title: Process Hazard Data
           children:
             - file: how-to-guides/drought_duration_ecde.ipynb
-    - file: explanation.ipynb
+    - file: explanation.md
       title: Explanation
       children:
         - title: About Droughts
